@@ -19,3 +19,9 @@ Managed with Git and GitHub.
 ## Collaboration
 
 Development follows a branch and pull request workflow.
+
+## Project Structure
+
+studenthub-git-lab/
+├── docs/
+└── README.md
